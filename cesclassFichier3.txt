@@ -1,3 +1,1 @@
-fichier pour le test de la commande git commit -a -m ...
-
 Update pour la commande commit appliqué à un seul fichier
